@@ -1,0 +1,22 @@
+[
+  {
+    "_id": "M01",
+    "name": "Week 0 - SETUP",
+    "description": "This focuses on the setup"
+  },
+  {
+    "_id": "M02",
+    "name": "Week 1 - ENV + HTML",
+    "description": "Basics of setting up the environment and getting started with HTML"
+  },
+  {
+    "_id": "M03",
+    "name": "Week 2 - BOOTSTRAP + CSS",
+    "description": "Learning how to style websites using CSS and bootstrap"
+  },
+  {
+    "_id": "M04",
+    "name": "Week 3 - REACT + JS",
+    "description": "Adding a dynamic nature to the webpages created using JS and React"
+  }
+]

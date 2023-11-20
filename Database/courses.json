@@ -1,0 +1,38 @@
+[
+  {
+    "_id": "CS4550",
+    "name": "CS4550 01 FA23",
+    "number": "CS4550",
+    "description": "CS4550.12631.202410",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "image": "../images/blue.jpeg"
+  },
+  {
+    "_id": "CS5610",
+    "name": "CS5610 01 FA23 Web Development",
+    "number": "CS5610",
+    "description": "CS5610.38921.202330",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "image": "../images/blue.jpeg"
+  },
+  {
+    "_id": "CS4560",
+    "name": "CS4560 02 FA23",
+    "number": "CS4560",
+    "description": "CS4560.12631.202410",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "image": "../images/blue.jpeg"
+  },
+  {
+    "_id": "CS5710",
+    "name": "CS5710 01 FA23 ",
+    "number": "CS5710",
+    "description": "CS5710.38921.202430",
+    "startDate": "2023-01-10",
+    "endDate": "2023-05-15",
+    "image": "../images/blue.jpeg"
+  }
+]

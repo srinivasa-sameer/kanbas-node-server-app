@@ -1,0 +1,56 @@
+[
+  {
+    "_id": "A1",
+    "title": "Assignment 1",
+    "description": "Week - 0 - SETUP - Week starting on Monday, September 5th (9/5/2022)  ",
+    "points": "100",
+    "dueDate": "2022-09-18",
+    "availableFrom": "2022-09-10",
+    "availableUntil": "2022-09-18"
+  },
+  {
+    "_id": "A2",
+    "title": "Assignment 2",
+    "description": "Week - 1 - HTML - Week starting on Monday, September 12th (9/12/2022)  ",
+    "points": "100",
+    "dueDate": "2022-09-25",
+    "availableFrom": "2022-09-19",
+    "availableUntil": "2022-09-25"
+  },
+  {
+    "_id": "A3",
+    "title": "Assignment 3",
+    "description": "Week - 2 - CSS - Week starting on Monday, September 19th (9/19/2022)  ",
+    "points": "100",
+    "dueDate": "2022-10-02",
+    "availableFrom": "2022-09-26",
+    "availableUntil": "2022-10-02"
+  },
+  {
+    "_id": "A4",
+    "title": "Assignment 4",
+    "description": "Week - 3 - BOOTSTRAP - Week starting on Monday, September 26th (9/26/2022)  ",
+    "points": "100",
+    "dueDate": "2022-10-10",
+    "availableFrom": "2022-10-03",
+    "availableUntil": "2022-10-10"
+  },
+  {
+    "_id": "A5",
+    "title": "Assignment 5",
+    "description": "Week - 4 - JAVASCRIPT - Week starting on Monday, October 3rd (10/2/2022) ",
+    "points": "100",
+    "dueDate": "2022-10-16",
+    "availableFrom": "2022-10-11",
+    "availableUntil": "2022-10-16"
+  },
+  {
+    "_id": "A6",
+    "title": "Assignment 6",
+    "description": "Week - 5 - React and Routing - Week starting on Monday, October 10th (10/10/2022)   ",
+    "points": "100",
+    "dueDate": "2022-10-23",
+    "availableFrom": "2022-10-17",
+    "availableUntil": "2022-10-23"
+  }
+]
