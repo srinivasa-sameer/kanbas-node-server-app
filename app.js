@@ -35,9 +35,6 @@ app.use(express.json());
 const CONNECTION_STRING =
   process.env.DB_CONNECTION_STRING || 'mongodb://127.0.0.1:27017/kanbas';
 mongoose.connect(CONNECTION_STRING);
-// mongoose.connect(
-//   'mongodb+srv://sameer13:Cre%40tive130620%40@kanbas.qtsa0zx.mongodb.net/?retryWrites=true&w=majority'
-// );
 UserRoutes(app);
 Hello(app);
 Lab5(app);
